@@ -1,0 +1,43 @@
+body {
+
+    background-color: rgba(235, 154, 210, 0.89);
+}
+
+
+.topaz {
+
+text-align: center;
+}
+
+.topaz img{
+    width: 30%;
+}
+
+
+
+
+
+h1 {
+
+    text-align: center;
+}
+
+
+p {
+
+    text-align: center;
+}
+
+
+#topaz {
+
+font-size: 20px;
+
+}
+
+
+em strong {
+
+color: rgb(249, 252, 255);
+
+}
