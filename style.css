@@ -5,7 +5,7 @@ body {
 #banner {
 	width:60%;
 }
-div {
+#nome_do_id{
 	display: flex;
 	justify-content: center;
   }
