@@ -5,6 +5,11 @@ body {
 #banner {
 	width:60%;
 }
+div {
+	display: flex;
+	justify-content: center;
+  }
+
 
 .principal{
 	background: #D0D6B5cc;
