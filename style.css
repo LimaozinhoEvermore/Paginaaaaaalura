@@ -6,8 +6,8 @@ body {
 	width:60%;
 }
 .centro{
-	display: flex;
-	justify-content: center;
+	max-width: 100%;
+	align-items: center;
   }
 
 
